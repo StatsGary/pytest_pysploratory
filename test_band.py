@@ -5,7 +5,7 @@
 #       pytest
 
 
-from bander import Band
+from bands.bander import Band
 import pytest
 
 # Create a fixture to persist the class instantiation
